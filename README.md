@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nseanyams
-- 👀 I’m interested in becoming a professional in Data Analysis.
+- 👀 I’m a seasoned administrative professional who is interested in becoming a professional in Data Analysis.
 - 🌱 I’m currently going through courses and internships on Data Analysis.
 - 💞️ I’m looking to collaborate with Professionals in Data Analysis.
 - 📫 How to reach me: nsanyams@gmail.com
