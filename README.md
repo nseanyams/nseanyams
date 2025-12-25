@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nseanyams
-- 👀 I’m a seasoned administrative professional who is interested in becoming a professional in Data Analysis.
-- 🌱 I’m currently going through courses and internships on Data Analysis.
+- 👋 Hi, I’m Nse, a Micro1 Certified Expert.
+- 👀 I’m a seasoned administrative professional who is interested in transitioning to a professional Data Analyst.
+- 🌱 I’m currently going through courses and internships in Data Analysis.
 - 💞️ I’m looking to collaborate with Professionals in Data Analysis.
 - 📫 How to reach me: nsanyams@gmail.com
 - 😄 Pronouns: Her
