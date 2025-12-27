@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nse, a Micro1 Certified Expert.
+- 👋 Hi, I’m Nse.
 - 👀 I’m a seasoned administrative professional who is interested in transitioning to a professional Data Analyst.
 - 🌱 I’m currently going through courses and internships in Data Analysis.
 - 💞️ I’m looking to collaborate with Professionals in Data Analysis.
